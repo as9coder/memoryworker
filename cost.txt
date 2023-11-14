@@ -1,0 +1,9 @@
+dog1= free
+dog2= 2 keys
+dog3= 4 keys
+
+--------------------------------
+
+cat1= 1 key
+cat2= 3 keys
+cat3= 5 keys
